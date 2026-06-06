@@ -33,8 +33,8 @@ const projects = [
   { src: "/logo-03.png", title: "Clan Crest", category: "logos", type: "image", overlayType: null },
 
   // ── Banners ──
-  { src: "/banner-01.svg", title: "Channel Banner", category: "banners", type: "image", overlayType: null },
-  { src: "/banner-02.svg", title: "Twitch Header", category: "banners", type: "image", overlayType: null },
+  { src: "/banner-01.png", title: "Channel Banner", category: "banners", type: "image", overlayType: null },
+  { src: "/banner-02.png", title: "Twitch Header", category: "banners", type: "image", overlayType: null },
 
   // ── Scoreboards ──
   { src: "/scoreboard-01.png", title: "Tournament Bracket", category: "scoreboards", type: "image", overlayType: null },
@@ -46,8 +46,8 @@ const projects = [
 
   // ── Overlays — Animated ──
   // Replace .svg with .mp4 when you add real video files
-  { src: "/overlay-stati-01.png", title: "Neon Stream Overlay", category: "overlays", type: "video", overlayType: "animated" },
-  { src: "/overlay-anim-02.svg", title: "Cyber Frame Pack", category: "overlays", type: "video", overlayType: "animated" },
+  { src: "/overlay-animated-01", title: "Neon Stream Overlay", category: "overlays", type: "video", overlayType: "animated" },
+  { src: "/overlay-animated-02", title: "Cyber Frame Pack", category: "overlays", type: "video", overlayType: "animated" },
 
   // ── Overlays — Short ──
   { src: "/overlay-short-01.png", title: "Starting Soon", category: "overlays", type: "image", overlayType: "short" },
