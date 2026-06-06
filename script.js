@@ -24,7 +24,7 @@ const projects = [
   // ── Thumbnails ──
   { src: "assets/thumb-01.png", title: "Gaming Montage", category: "thumbnails", type: "image", overlayType: null },
   { src: "assets/thumb-02.svg", title: "Pro Tournament", category: "thumbnails", type: "image", overlayType: null },
-  { src: "assets/thumb-03.svg", title: "Road to Champion", category: "thumbnails", type: "image", overlayType: null },
+  { src: "assets/thumb-02.png", title: "Road to Champion", category: "thumbnails", type: "image", overlayType: null },
   { src: "assets/thumb-04.svg", title: "Clutch Moment", category: "thumbnails", type: "image", overlayType: null },
 
   // ── Logos ──
