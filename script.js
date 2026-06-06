@@ -37,8 +37,8 @@ const projects = [
   { src: "/banner-02.svg", title: "Twitch Header", category: "banners", type: "image", overlayType: null },
 
   // ── Scoreboards ──
-  { src: "/scoreboard-01.svg", title: "Tournament Bracket", category: "scoreboards", type: "image", overlayType: null },
-  { src: "/scoreboard-02.svg", title: "Live Score HUD", category: "scoreboards", type: "image", overlayType: null },
+  { src: "/scoreboard-01.png", title: "Tournament Bracket", category: "scoreboards", type: "image", overlayType: null },
+  { src: "/scoreboard-02.png", title: "Live Score HUD", category: "scoreboards", type: "image", overlayType: null },
 
   // ── PSDs ──
   { src: "/psd-01.svg", title: "Thumbnail Template", category: "psds", type: "image", overlayType: null },
@@ -50,11 +50,11 @@ const projects = [
   { src: "/overlay-anim-02.svg", title: "Cyber Frame Pack", category: "overlays", type: "video", overlayType: "animated" },
 
   // ── Overlays — Short ──
-  { src: "/overlay-short-01.svg", title: "Starting Soon", category: "overlays", type: "image", overlayType: "short" },
-  { src: "/overlay-short-02.svg", title: "BRB Screen", category: "overlays", type: "image", overlayType: "short" },
+  { src: "/overlay-short-01.png", title: "Starting Soon", category: "overlays", type: "image", overlayType: "short" },
+  { src: "/overlay-short-02.png", title: "BRB Screen", category: "overlays", type: "image", overlayType: "short" },
 
   // ── Overlays — Static ──
-  { src: "/overlay-static-01.png", title: "Webcam Frame", category: "overlays", type: "image", overlayType: "static" },
+  { src: "/overlay-static01.png", title: "Webcam Frame", category: "overlays", type: "image", overlayType: "static" },
   { src: "/overlay-static-02.svg", title: "Alert Widget BG", category: "overlays", type: "image", overlayType: "static" },
 ];
 
