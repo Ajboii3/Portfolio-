@@ -24,8 +24,8 @@ const projects = [
   // ── Thumbnails ──
   { src: "/thumb-01.png", title: "Gaming Montage", category: "thumbnails", type: "image", overlayType: null },
   { src: "/thumb-02.png", title: "Pro Tournament", category: "thumbnails", type: "image", overlayType: null },
-  { src: "/thumb-03.png", title: "Road to Champion", category: "thumbnails", type: "image", overlayType: null },
-  { src: "/thumb-04.png", title: "Clutch Moment", category: "thumbnails", type: "image", overlayType: null },
+  { src: "/thumb-03.webp", title: "Road to Champion", category: "thumbnails", type: "image", overlayType: null },
+  { src: "/thumb-04.webp", title: "Clutch Moment", category: "thumbnails", type: "image", overlayType: null },
 
   // ── Logos ──
   { src: "/logo-01.svg", title: "Esports Brand ID", category: "logos", type: "image", overlayType: null },
