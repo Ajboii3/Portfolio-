@@ -24,38 +24,38 @@ const projects = [
   // ── Thumbnails ──
   { src: "/thumb-01.png", title: "Gaming Montage", category: "thumbnails", type: "image", overlayType: null },
   { src: "/thumb-02.png", title: "Pro Tournament", category: "thumbnails", type: "image", overlayType: null },
-  { src: "assets/thumb-02.png", title: "Road to Champion", category: "thumbnails", type: "image", overlayType: null },
-  { src: "Picsart_26-06-04_14-53-36-001.png", title: "Clutch Moment", category: "thumbnails", type: "image", overlayType: null },
+  { src: "/thumb-03.png", title: "Road to Champion", category: "thumbnails", type: "image", overlayType: null },
+  { src: "/thumb-04.png", title: "Clutch Moment", category: "thumbnails", type: "image", overlayType: null },
 
   // ── Logos ──
-  { src: "assets/logo-01.svg", title: "Esports Brand ID", category: "logos", type: "image", overlayType: null },
-  { src: "assets/logo-02.svg", title: "Streamer Emblem", category: "logos", type: "image", overlayType: null },
-  { src: "assets/logo-03.svg", title: "Clan Crest", category: "logos", type: "image", overlayType: null },
+  { src: "/logo-01.svg", title: "Esports Brand ID", category: "logos", type: "image", overlayType: null },
+  { src: "/logo-02.svg", title: "Streamer Emblem", category: "logos", type: "image", overlayType: null },
+  { src: "/logo-03.svg", title: "Clan Crest", category: "logos", type: "image", overlayType: null },
 
   // ── Banners ──
-  { src: "assets/banner-01.svg", title: "Channel Banner", category: "banners", type: "image", overlayType: null },
-  { src: "assets/banner-02.svg", title: "Twitch Header", category: "banners", type: "image", overlayType: null },
+  { src: "/banner-01.svg", title: "Channel Banner", category: "banners", type: "image", overlayType: null },
+  { src: "/banner-02.svg", title: "Twitch Header", category: "banners", type: "image", overlayType: null },
 
   // ── Scoreboards ──
-  { src: "assets/scoreboard-01.svg", title: "Tournament Bracket", category: "scoreboards", type: "image", overlayType: null },
-  { src: "assets/scoreboard-02.svg", title: "Live Score HUD", category: "scoreboards", type: "image", overlayType: null },
+  { src: "/scoreboard-01.svg", title: "Tournament Bracket", category: "scoreboards", type: "image", overlayType: null },
+  { src: "/scoreboard-02.svg", title: "Live Score HUD", category: "scoreboards", type: "image", overlayType: null },
 
   // ── PSDs ──
-  { src: "assets/psd-01.svg", title: "Thumbnail Template", category: "psds", type: "image", overlayType: null },
-  { src: "assets/psd-02.svg", title: "Overlay Pack Source", category: "psds", type: "image", overlayType: null },
+  { src: "/psd-01.svg", title: "Thumbnail Template", category: "psds", type: "image", overlayType: null },
+  { src: "/psd-02.svg", title: "Overlay Pack Source", category: "psds", type: "image", overlayType: null },
 
   // ── Overlays — Animated ──
   // Replace .svg with .mp4 when you add real video files
-  { src: "assets/overlay-stati-01.png", title: "Neon Stream Overlay", category: "overlays", type: "video", overlayType: "animated" },
-  { src: "assets/overlay-anim-02.svg", title: "Cyber Frame Pack", category: "overlays", type: "video", overlayType: "animated" },
+  { src: "/overlay-stati-01.png", title: "Neon Stream Overlay", category: "overlays", type: "video", overlayType: "animated" },
+  { src: "/overlay-anim-02.svg", title: "Cyber Frame Pack", category: "overlays", type: "video", overlayType: "animated" },
 
   // ── Overlays — Short ──
-  { src: "assets/overlay-short-01.svg", title: "Starting Soon", category: "overlays", type: "image", overlayType: "short" },
-  { src: "assets/overlay-short-02.svg", title: "BRB Screen", category: "overlays", type: "image", overlayType: "short" },
+  { src: "/overlay-short-01.svg", title: "Starting Soon", category: "overlays", type: "image", overlayType: "short" },
+  { src: "/overlay-short-02.svg", title: "BRB Screen", category: "overlays", type: "image", overlayType: "short" },
 
   // ── Overlays — Static ──
-  { src: "assets/overlay-static-01.png", title: "Webcam Frame", category: "overlays", type: "image", overlayType: "static" },
-  { src: "assets/overlay-static-02.svg", title: "Alert Widget BG", category: "overlays", type: "image", overlayType: "static" },
+  { src: "/overlay-static-01.png", title: "Webcam Frame", category: "overlays", type: "image", overlayType: "static" },
+  { src: "/overlay-static-02.svg", title: "Alert Widget BG", category: "overlays", type: "image", overlayType: "static" },
 ];
 
 /* =========================================================
