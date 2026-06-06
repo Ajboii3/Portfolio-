@@ -55,7 +55,7 @@ const projects = [
 
   // ── Overlays — Static ──
   { src: "/overlay-static01.png", title: "Webcam Frame", category: "overlays", type: "image", overlayType: "static" },
-  { src: "/overlay-static-02.svg", title: "Alert Widget BG", category: "overlays", type: "image", overlayType: "static" },
+  { src: "/overlay-static-02.png", title: "Alert Widget BG", category: "overlays", type: "image", overlayType: "static" },
 ];
 
 /* =========================================================
