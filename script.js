@@ -46,7 +46,7 @@ const projects = [
 
   // ── Overlays — Animated ──
   // Replace .svg with .mp4 when you add real video files
-  { src: "assets/overlay-anim-01.svg", title: "Neon Stream Overlay", category: "overlays", type: "video", overlayType: "animated" },
+  { src: "assets/overlay-stati-01.png", title: "Neon Stream Overlay", category: "overlays", type: "video", overlayType: "animated" },
   { src: "assets/overlay-anim-02.svg", title: "Cyber Frame Pack", category: "overlays", type: "video", overlayType: "animated" },
 
   // ── Overlays — Short ──
@@ -54,7 +54,7 @@ const projects = [
   { src: "assets/overlay-short-02.svg", title: "BRB Screen", category: "overlays", type: "image", overlayType: "short" },
 
   // ── Overlays — Static ──
-  { src: "assets/overlay-static-01.svg", title: "Webcam Frame", category: "overlays", type: "image", overlayType: "static" },
+  { src: "assets/overlay-static-01.png", title: "Webcam Frame", category: "overlays", type: "image", overlayType: "static" },
   { src: "assets/overlay-static-02.svg", title: "Alert Widget BG", category: "overlays", type: "image", overlayType: "static" },
 ];
 
