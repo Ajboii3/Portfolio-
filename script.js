@@ -33,21 +33,21 @@ const projects = [
   { src: "/logo-03.png", title: "Clan Crest", category: "logos", type: "image", overlayType: null },
 
   // ── Banners ──
-  { src: "/banner-01.png", title: "Channel Banner", category: "banners", type: "image", overlayType: null },
-  { src: "/banner-02.png", title: "Twitch Header", category: "banners", type: "image", overlayType: null },
+  { src: "/banner-01.jpg", title: "Channel Banner", category: "banners", type: "image", overlayType: null },
+  { src: "/banner-02.jpg", title: "Twitch Header", category: "banners", type: "image", overlayType: null },
 
   // ── Scoreboards ──
   { src: "/scoreboard-01.png", title: "Tournament Bracket", category: "scoreboards", type: "image", overlayType: null },
   { src: "/scoreboard-02.png", title: "Live Score HUD", category: "scoreboards", type: "image", overlayType: null },
 
   // ── PSDs ──
-  { src: "/psd-01.svg", title: "Thumbnail Template", category: "psds", type: "image", overlayType: null },
-  { src: "/psd-02.svg", title: "Overlay Pack Source", category: "psds", type: "image", overlayType: null },
+  { src: "/overlay-soon.jpg", title: "Thumbnail Template", category: "psds", type: "image", overlayType: null },
+  { src: "/overlay-soon.jpg", title: "Overlay Pack Source", category: "psds", type: "image", overlayType: null },
 
   // ── Overlays — Animated ──
   // Replace .svg with .mp4 when you add real video files
-  { src: "/overlay-animated-01", title: "Neon Stream Overlay", category: "overlays", type: "video", overlayType: "animated" },
-  { src: "/overlay-animated-02", title: "Cyber Frame Pack", category: "overlays", type: "video", overlayType: "animated" },
+  { src: "/overlay-animated-01.jpg", title: "Neon Stream Overlay", category: "overlays", type: "video", overlayType: "animated" },
+  { src: "/overlay-animated-02.jpg", title: "Cyber Frame Pack", category: "overlays", type: "video", overlayType: "animated" },
 
   // ── Overlays — Short ──
   { src: "/overlay-short-01.png", title: "Starting Soon", category: "overlays", type: "image", overlayType: "short" },
