@@ -28,9 +28,9 @@ const projects = [
   { src: "/thumb-04.webp", title: "Clutch Moment", category: "thumbnails", type: "image", overlayType: null },
 
   // ── Logos ──
-  { src: "/logo-01.svg", title: "Esports Brand ID", category: "logos", type: "image", overlayType: null },
-  { src: "/logo-02.svg", title: "Streamer Emblem", category: "logos", type: "image", overlayType: null },
-  { src: "/logo-03.svg", title: "Clan Crest", category: "logos", type: "image", overlayType: null },
+  { src: "/logo-01.png", title: "Esports Brand ID", category: "logos", type: "image", overlayType: null },
+  { src: "/logo-02.png", title: "Streamer Emblem", category: "logos", type: "image", overlayType: null },
+  { src: "/logo-03.png", title: "Clan Crest", category: "logos", type: "image", overlayType: null },
 
   // ── Banners ──
   { src: "/banner-01.svg", title: "Channel Banner", category: "banners", type: "image", overlayType: null },
