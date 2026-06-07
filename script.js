@@ -46,8 +46,8 @@ const projects = [
 
   // ── Overlays — Animated ──
   // Replace .svg with .mp4 when you add real video files
-  { src: "/overlay-animated-01.jpg", title: "Neon Stream Overlay", category: "overlays", type: "video", overlayType: "animated" },
-  { src: "/overlay-animated-02.jpg", title: "Cyber Frame Pack", category: "overlays", type: "video", overlayType: "animated" },
+  { src: "/overlay-animated-01.mp4", title: "Neon Stream Overlay", category: "overlays", type: "video", overlayType: "animated" },
+  { src: "/overlay-animated-02.mp4", title: "Cyber stream overlay", category: "overlays", type: "video", overlayType: "animated" },
 
   // ── Overlays — Short ──
   { src: "/overlay-short-01.png", title: "Starting Soon", category: "overlays", type: "image", overlayType: "short" },
