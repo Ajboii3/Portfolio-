@@ -22,19 +22,19 @@
 
 const projects = [
   // ── Thumbnails ──
-  { src: "/thumb-01.png", title: "Gaming Montage", category: "thumbnails", type: "image", overlayType: null },
-  { src: "/thumb-02.png", title: "Pro Tournament", category: "thumbnails", type: "image", overlayType: null },
-  { src: "/thumb-03.webp", title: "Road to Champion", category: "thumbnails", type: "image", overlayType: null },
-  { src: "/thumb-04.webp", title: "Clutch Moment", category: "thumbnails", type: "image", overlayType: null },
+  { src: "/thumb-01.png", title: "Prime Rush", category: "thumbnails", type: "image", overlayType: null },
+  { src: "/thumb-02.png", title: "Indus brx", category: "thumbnails", type: "image", overlayType: null },
+  { src: "/thumb-03.webp", title: "Scrfall", category: "thumbnails", type: "image", overlayType: null },
+  { src: "/thumb-04.webp", title: "Farlight84", category: "thumbnails", type: "image", overlayType: null },
 
   // ── Logos ──
-  { src: "/logo-01.png", title: "Esports Brand ID", category: "logos", type: "image", overlayType: null },
-  { src: "/logo-02.png", title: "Streamer Emblem", category: "logos", type: "image", overlayType: null },
-  { src: "/logo-03.png", title: "Clan Crest", category: "logos", type: "image", overlayType: null },
+  { src: "/logo-01.png", title: "discord logo", category: "logos", type: "image", overlayType: null },
+  { src: "/logo-02.png", title: "Channel logo", category: "logos", type: "image", overlayType: null },
+  { src: "/logo-03.png", title: "Clan logo", category: "logos", type: "image", overlayType: null },
 
   // ── Banners ──
   { src: "/banner-01.jpg", title: "Channel Banner", category: "banners", type: "image", overlayType: null },
-  { src: "/banner-02.jpg", title: "Twitch Header", category: "banners", type: "image", overlayType: null },
+  { src: "/banner-02.jpg", title: "banner", category: "banners", type: "image", overlayType: null },
 
   // ── Scoreboards ──
   { src: "/scoreboard-01.png", title: "Tournament Bracket", category: "scoreboards", type: "image", overlayType: null },
@@ -50,12 +50,12 @@ const projects = [
   { src: "/overlay-animated-02.mp4", title: "Cyber stream overlay", category: "overlays", type: "video", overlayType: "animated" },
 
   // ── Overlays — Short ──
-  { src: "/overlay-short-01.png", title: "Starting Soon", category: "overlays", type: "image", overlayType: "short" },
-  { src: "/overlay-short-02.png", title: "BRB Screen", category: "overlays", type: "image", overlayType: "short" },
+  { src: "/overlay-short-01.png", title: "Short stream ", category: "overlays", type: "image", overlayType: "short" },
+  { src: "/overlay-short-02.png", title: "short gamplay", category: "overlays", type: "image", overlayType: "short" },
 
   // ── Overlays — Static ──
-  { src: "/overlay-static01.png", title: "Webcam Frame", category: "overlays", type: "image", overlayType: "static" },
-  { src: "/overlay-static-02.png", title: "Alert Widget BG", category: "overlays", type: "image", overlayType: "static" },
+  { src: "/overlay-static01.png", title: "stream overlay", category: "overlays", type: "image", overlayType: "static" },
+  { src: "/overlay-static-02.png", title: "live overlay", category: "overlays", type: "image", overlayType: "static" },
 ];
 
 /* =========================================================
